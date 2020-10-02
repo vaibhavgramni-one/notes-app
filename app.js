@@ -4,9 +4,6 @@ const notes = require('./notes.js')
 //const { argv } = require('yargs')
 
 
-//working with yargs.command ../ /
-//console.log(process.argv)
-//console.log(yargs.argv)
 yargs.version('1.1.0')
 
 yargs.command({
